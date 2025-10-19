@@ -1,2 +1,3 @@
-# Sword-Islands-
-Unity 2D pixel art game
+# Sword Islands
+
+Sword Islands is a 2D action dungeon-crawler built in Unity 6, where the player fights through four levels filled with Orcs, Vampires, and a Giant Vampire Boss. The game features WASD movement with a dash ability, directional sword combat with combo attacks, health upgrades, and teleportation between levels. Each level introduces new enemies and challenges, and after defeating all enemies, the player can choose power-ups before progressing. The project uses object pooling, singleton managers, and optimized systems for performance, with all four levels existing in a single scene. To run the game, clone the repository, open it in Unity Hub (version 6000.x or later), and press Play.
