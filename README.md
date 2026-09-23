@@ -1,3 +1,21 @@
-# Sword Islands
 
-Sword Islands is a 2D action dungeon-crawler built in Unity 6, where the player fights through four levels filled with Orcs, Vampires, and a Giant Vampire Boss. The game features WASD movement with a dash ability, directional sword combat with combo attacks, health upgrades, and teleportation between levels. Each level introduces new enemies and challenges, and after defeating all enemies, the player can choose power-ups before progressing. The project uses object pooling, singleton managers, and optimized systems for performance, with all four levels existing in a single scene. To run the game, clone the repository, open it in Unity Hub (version 6000.x or later), and press Play.
+## 💡 What I Learned
+
+- Game loop architecture and state management
+- Enemy AI and collision detection systems
+- UI feedback and player experience design
+- Performance optimization for game development
+- Collaborative development workflow
+
+## 👥 Collaboration
+
+This project was developed collaboratively with **[omerzv](https://github.com/omerzv)**.
+- Original repository: [Sword-Islands-](https://github.com/omerzv/Sword-Islands-)
+
+## 📝 License
+
+This project is for educational and portfolio purposes.
+
+---
+
+**Ready to play? Clone the repo and press Play in Unity!** 🎮
